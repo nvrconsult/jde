@@ -18,7 +18,6 @@
  * or distribution, in whole or in part, is forbidden except by express 
  * written permission of J.D. Edwards World Source Company. 
  ****************************************************************************/ 
- 
 #ifndef __B55001_H
 #define __B55001_H  
  
